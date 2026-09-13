@@ -5,16 +5,16 @@
     "name": "LinOnward"
   },
   "metadata": {
-    "description": "LinOnward 工程决策技能集",
-    "version": "0.1.0"
+    "description": "LinOnward 决策、创作与工程技能集",
+    "version": "0.2.0"
   },
   "plugins": [
     {
       "name": "linonward-skills",
       "source": "./",
-      "description": "8 个纯 prompt 技能，覆盖任务定义、范围控制、计划评审、根因调试、运行验收、变更评审、文档同步与会话交接。",
+      "description": "9 个纯 prompt 技能，覆盖任务定义、范围控制、计划评审、根因调试、运行验收、变更评审、文档同步、公众号写作与会话交接。",
       "category": "productivity",
-      "tags": ["engineering", "planning", "debugging", "review", "chinese"]
+      "tags": ["engineering", "planning", "debugging", "review", "writing", "chinese"]
     }
   ]
 }
