@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "linonward-skills",
+  "displayName": "LinOnward Skills",
+  "version": "0.1.0",
+  "description": "从模糊需求到安全交付的工程决策技能包。",
+  "author": {
+    "name": "LinOnward"
+  },
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "planning",
+    "debugging",
+    "review",
+    "verification",
+    "chinese"
+  ]
+}

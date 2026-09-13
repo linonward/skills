@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "linonward",
+  "owner": {
+    "name": "LinOnward"
+  },
+  "metadata": {
+    "description": "LinOnward 工程决策技能集",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "linonward-skills",
+      "source": "./",
+      "description": "8 个纯 prompt 技能，覆盖任务定义、范围控制、计划评审、根因调试、运行验收、变更评审、文档同步与会话交接。",
+      "category": "productivity",
+      "tags": ["engineering", "planning", "debugging", "review", "chinese"]
+    }
+  ]
+}
