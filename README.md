@@ -16,6 +16,7 @@
 | 评审 | `inspect-change` | 按风险审查 diff、提交或 PR，输出可执行发现 |
 | 文档 | `align-docs` | 根据真实改动同步现有文档，避免文档漂移 |
 | 内容 | `write-wechat` | 策划、撰写、改写、审校微信公众号文章并按需生成配图 |
+| 增长 | `grow-xiaohongshu` | 定位、研究、创作、诊断并迭代小红书内容增长体系 |
 | 交接 | `carry-context` | 把当前状态压缩成下一位执行者能继续工作的交接包 |
 
 推荐工作流：
@@ -31,6 +32,8 @@ shape-work -> cut-scope -> challenge-plan -> 实现
 这些技能不是固定流水线。只加载当前任务真正需要的那个技能。
 
 `write-wechat` 创建前对 GitHub 公开技能进行了专项调研，取舍记录见 [微信公众号写作 Skills 调研](docs/wechat-writing-research.md)。
+
+`grow-xiaohongshu` 同样先比较了 GitHub 上的公开资源，整合依据见 [小红书内容增长 Skills 调研](docs/xiaohongshu-growth-research.md)。
 
 ## 安装
 
