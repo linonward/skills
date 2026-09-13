@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "linonward-skills",
   "displayName": "LinOnward Skills",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "从模糊需求到安全交付的决策、创作与工程技能包。",
   "author": {
     "name": "LinOnward"
